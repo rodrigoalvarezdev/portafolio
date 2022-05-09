@@ -155,3 +155,7 @@ p{
     text-decoration: none;
     color:rgb(2, 2, 20);
   }
+
+  .gallery-item {
+    cursor: pointer;
+  }
